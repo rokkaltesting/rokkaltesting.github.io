@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rokkaltesting.blog</id>
+    <title>Rokka Study Notes</title>
+    <updated>2023-05-10T11:55:04.277Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rokkaltesting.blog"/>
+    <link rel="self" href="https://rokkaltesting.blog/atom.xml"/>
+    <subtitle>Build the garden of my own. ✨</subtitle>
+    <logo>https://rokkaltesting.blog/images/avatar.png</logo>
+    <icon>https://rokkaltesting.blog/favicon.ico</icon>
+    <rights>All rights reserved 2023, Rokka Study Notes</rights>
+    <entry>
+        <title type="html"><![CDATA[一般社科类学术资源检索方法（附罗语资源）]]></title>
+        <id>https://rokkaltesting.blog/post/researchmethods/</id>
+        <link href="https://rokkaltesting.blog/post/researchmethods/">
+        </link>
+        <updated>2023-05-09T10:35:03.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rokka的小站索引]]></title>
+        <id>https://rokkaltesting.blog/post/rokkaltesting.blog/</id>
+        <link href="https://rokkaltesting.blog/post/rokkaltesting.blog/">
+        </link>
+        <updated>2023-02-28T20:37:41.000Z</updated>
+    </entry>
+</feed>
